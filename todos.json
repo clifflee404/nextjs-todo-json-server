@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "完成一个 Next.js todo app"
+    },
+    {
+      "id": "2",
+      "text": "学习 bili 数据可视化教程"
+    },
+    {
+      "id": "aec73fd0-fab6-412c-9ad9-6d459efc10c2",
+      "text": "123"
+    }
+  ]
+}
